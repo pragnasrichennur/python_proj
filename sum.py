@@ -3,7 +3,7 @@ b=[10,20,30,40]
 k=list(map(lambda x,y:x+y,a,b))
 print(k)
 
-
+print(k)
 
 # If lists are of unequal lengths
 
